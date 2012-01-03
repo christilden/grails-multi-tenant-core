@@ -92,4 +92,4 @@ If you use the OpenSymphony cache provider (org.hibernate.cache.OSCacheProvider)
 
 h3. EHCache(New with 0.18)
 
-If you are using the EHCache cache provider your should use *grails.plugin.multitenant.ehcache.cache.MultiTenantEhCacheProvider* insead. 
+If you are using the EHCache cache provider your should use *grails.plugin.multitenant.ehcache.cache.MultiTenantEhCacheProvider* instead. 
